@@ -3,7 +3,7 @@ body {
     background-color: rgb(18, 155, 102);
   }
 
-    .tooltip {
+  .tooltip {
     position: relative;
     display: inline-block;
   }
